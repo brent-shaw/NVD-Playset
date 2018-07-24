@@ -12,18 +12,18 @@ Some simple tools for playing with NIST's NVD data feeds
   
   or
   
-  '''shell
+  ```shell
   $ python downloadNVD_XML.py
-  '''
+  ```
   
   This will create a folder 'nvd', where the JSON and/or XML files will be downloaded to.
   
 2. Build a Python Dict
   Run the script:
   
-  '''shell
+  ```shell
   $ python JSONtoDict.py
-  '''
+  ```
   
   This will create a dict with the NVD entries for each year. 
   This makes getting started with some Python scripting nice and easy.
@@ -33,9 +33,9 @@ Some simple tools for playing with NIST's NVD data feeds
    NOTE: You must run the Dict script first. We use the pickled dict to build the DB.
   
   Run the following:
-  '''shell
+  ```shell
   $ python dictToDB.py
-  '''
+  ```
   Now you will have a nice new DB (nvd.db).
   
 4. Time to play!
