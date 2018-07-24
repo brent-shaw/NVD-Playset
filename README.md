@@ -19,7 +19,7 @@ Some simple tools for playing with NIST's NVD data feeds
    $ python downloadNVD_XML.py
    ```
   
-  This will create a folder 'nvd', where the JSON and/or XML files will be downloaded to.
+   This will create a folder 'nvd', where the JSON and/or XML files will be downloaded to.
   
 2. Build a Python Dict
 
