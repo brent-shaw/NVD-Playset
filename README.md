@@ -1,2 +1,2 @@
 # NVD-Playset
-Some simple tools for playing with
+Some simple tools for playing with NIST's NVD data feeds
