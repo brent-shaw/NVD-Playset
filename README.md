@@ -1,6 +1,8 @@
 # NVD-Playset
 Some simple tools for playing with NIST's NVD data feeds
 
+**NOTE: This has been tested with Python 3.5.2**
+
 ## Using the playset
 
 1. Download files from NIST.
